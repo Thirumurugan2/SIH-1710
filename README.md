@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 
-## Date: 18/09/2026
+## Date: 26/10/2026
 
 ## Register Number: 212223220118
 
